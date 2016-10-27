@@ -1,0 +1,10 @@
+{
+  "name": "gulp-debug-cleaner",
+  "version": "1.0.0",
+  "description": "A gulp plugin which allows you to clean your code of blocks debug code.",
+  "author": "Heartnett",
+  "dependencies": {
+    "lodash.escaperegexp": "^4.1.2",
+    "through2": "^2.0.1"
+  }
+}
